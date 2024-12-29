@@ -1,4 +1,4 @@
-# AI Cursor Agent History Tracking System
+# Cursor Agent History Tracking System
 
 ## Overview
 A simple system to maintain context and track changes in conversations with Cursor when it's in AGENT mode, ensuring continuity even if the AI 'forgets' previous interactions. This workaround isn't necessary for regular chat mode, as Cursor implements native tracking.
