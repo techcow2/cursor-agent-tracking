@@ -6,7 +6,7 @@
 To maintain project context across conversations, always start a new chat with the following instructions:  
 
 ```
-You are working on the AI Book Writer project.  
+You are working on the [project name here]
 Read CHANGELOG.md and PROJECT_SCOPE.md now, report your findings, and strictly follow all instructions found in these documents.  
 You must complete the check-in process before proceeding with any task.  
 
