@@ -18,7 +18,7 @@ A simple system to maintain context and track changes in conversations with Curs
 ## File Purposes
 - `PROMPT.md`: Your template for starting each new chat session
 - `CHANGELOG.md`: Tracks all significant changes to your project
-- `PROJECT_SCOPE.md`: Maintains current project status and goals
+- `PROJECTSCOPE.md`: Maintains current project status and goals
 
 ## Best Practices
 1. Always start new chats with the `PROMPT.md` template (this means every time you click the + symbol)
