@@ -1,12 +1,12 @@
 # AI Cursor Agent History Tracking System
 
 ## Overview
-A simple system to maintain context and track changes in conversations with cursor when it's in agent mode like, ensuring continuity even when the AI "forgets" previous interactions.
+A simple system to maintain context and track changes in conversations with cursor when it's in AGENT mode, ensuring continuity even when the AI "forgets" previous interactions. This workaround isn't needed for regular chat mode.
 
 ## Quick Start
 1. Copy all `.md` files from the `templates` directory into your project's root directory:
    - `CHANGELOG.md`
-   - `PROJECT_SCOPE.md`
+   - `PROJECTSCOPE.md`
    - `PROMPT.md`
 
 2. Begin every new chat with the AI by copying the contents of `PROMPT.md`
@@ -21,7 +21,7 @@ A simple system to maintain context and track changes in conversations with curs
 - `PROJECT_SCOPE.md`: Maintains current project status and goals
 
 ## Best Practices
-1. Always start new chats with the `PROMPT.md` template
+1. Always start new chats with the `PROMPT.md` template (this means every time you click the + symbol)
 2. Update `CHANGELOG.md` after significant changes
 3. Keep `PROJECT_SCOPE.md` current
 4. Include relevant file paths in your prompts
