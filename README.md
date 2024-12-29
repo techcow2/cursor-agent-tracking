@@ -23,7 +23,7 @@ A simple system to maintain context and track changes in conversations with Curs
 ## Best Practices
 1. Always start new chats with the `PROMPT.md` template (this means every time you click the + symbol)
 2. Update `CHANGELOG.md` after significant changes
-3. Keep `PROJECT_SCOPE.md` current
+3. Keep `PROJECTSCOPE.md` current
 4. Include relevant file paths in your prompts
 5. Save important code snippets and explanations
 
