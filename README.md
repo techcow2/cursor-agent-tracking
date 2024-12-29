@@ -13,7 +13,7 @@ A simple system to maintain context and track changes in conversations with Curs
    - This ensures the AI has proper context about your project
    - The AI will maintain consistent formatting for changes
    - Track all significant changes in `CHANGELOG.md`
-   - Keep `PROJECT_SCOPE.md` updated with current status
+   - Keep `PROJECTSCOPE.md` updated with current status
 
 ## File Purposes
 - `PROMPT.md`: Your template for starting each new chat session
